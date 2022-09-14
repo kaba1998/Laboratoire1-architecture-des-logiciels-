@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Aicha\source\repos\jesuisfatigue\jesuisfatigue\main.cpp(7,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  MediaPlayer.cpp
+  Génération de code en cours...
+MediaPlayer.obj : error LNK2001: symbole externe non résolu _IID_IMediaSeeking
+MediaPlayer.obj : error LNK2001: symbole externe non résolu _IID_IGraphBuilder
+MediaPlayer.obj : error LNK2001: symbole externe non résolu _IID_IMediaControl
+MediaPlayer.obj : error LNK2001: symbole externe non résolu _IID_IMediaEvent
+MediaPlayer.obj : error LNK2001: symbole externe non résolu _CLSID_FilterGraph
+C:\Users\Aicha\source\repos\jesuisfatigue\Debug\jesuisfatigue.exe : fatal error LNK1120: 5 externes non résolus
